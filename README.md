@@ -7,6 +7,6 @@ DIVA (Damn insecure and vulnerable App) is an App intentionally designed to be i
       - If You Have "git" ? Then You Can Execute This Command -> ``` git clone https://github.com/xAltmime/diva-apk-file.git``` 
       
   * -2 Install apk via adb
-      - Command to install in adb : ``` adb install diva.apk ```
+      - Command to install in adb : ``` adb install DivaApplication.apk ```
         - If You Have Nox Player application ?
           * Then You Have ADB File in Path Nox Player : ``` C:\Program Files\Nox\bin\nox_adb.exe ```
